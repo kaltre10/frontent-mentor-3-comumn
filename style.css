@@ -57,7 +57,6 @@ body{
 .card__text{
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 25px;
-    margin-right: 10px;
     margin-bottom: 50px;
 }
 
